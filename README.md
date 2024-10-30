@@ -21,7 +21,7 @@ Puedes ejecutar este análisis directamente en Google Colab haciendo clic en el 
 Si deseas contribuir a este proyecto, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licencia
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT). El dataset utilizado está disponible en Kaggle y está sujeto a la Licencia de Kaggle, que permite su uso para análisis y aprendizaje, siempre y cuando se cumplan los términos de uso de la plataforma.
+Este proyecto está bajo la Licencia CC0: Public Domain. El dataset utilizado está disponible en Kaggle y está sujeto a la Licencia de Kaggle, que permite su uso para análisis y aprendizaje, siempre y cuando se cumplan los términos de uso de la plataforma.
 
 ## Fuente del Dataset
 El dataset fue obtenido de Kaggle y está disponible en el siguiente enlace: [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification).
