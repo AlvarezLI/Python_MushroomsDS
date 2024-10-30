@@ -17,9 +17,6 @@ Puedes ejecutar este análisis directamente en Google Colab haciendo clic en el 
 - Las setas con sombreros de ciertos colores tienden a ser más comestibles, mientras que otros colores están más asociados a la peligrosidad.
 - Los hábitats tienen un impacto significativo en la diversidad de hongos comestibles y venenosos.
 
-## Contribuciones
-Si deseas contribuir a este proyecto, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Licencia
 Este proyecto está bajo la Licencia CC0: Public Domain. El dataset utilizado está disponible en Kaggle y está sujeto a la Licencia de Kaggle, que permite su uso para análisis y aprendizaje, siempre y cuando se cumplan los términos de uso de la plataforma.
 
