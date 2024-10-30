@@ -1,0 +1,15 @@
+# Carpeta de Datos
+
+Esta carpeta contiene los conjuntos de datos utilizados en el análisis del proyecto sobre hongos. 
+
+## Archivos
+
+- **mushrooms_modified.csv**: Este archivo CSV contiene datos sobre diferentes tipos de hongos, incluyendo características como forma del sombrero, color del sombrero, y otras variables relevantes para el análisis. Este conjunto de datos ha sido modificado para eliminar valores nulos y outliers, asegurando su calidad para el análisis.
+
+## Uso
+
+Los datos en este archivo pueden ser utilizados para realizar análisis exploratorios, modelado predictivo y visualización de datos, con el objetivo de identificar patrones y características relevantes de los hongos.
+
+## Licencia
+
+Este conjunto de datos se ha obtenido de [Kaggle](https://www.kaggle.com/datasets) y se rige por la licencia correspondiente, la cual se debe consultar para el uso adecuado de los datos.
