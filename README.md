@@ -3,10 +3,6 @@
 ## Descripción del Proyecto
 Este proyecto se centra en el análisis exploratorio de datos utilizando un dataset de hongos, con el objetivo de identificar diferentes tipos de hongos y predecir su comestibilidad basándonos en sus características físicas y químicas.
 
-## Uso en Google Colab
-Puedes ejecutar este análisis directamente en Google Colab haciendo clic en el siguiente enlace:
-[Abrir en Colab](https://github.com/AlvarezLI/Python_MushroomsDS/blob/main/Analisis.ipynb)
-
 ### Estructura del Notebook
 - **Análisis Exploratorio**: Se exploran diversas variables del dataset, incluyendo la distribución de hongos comestibles y venenosos, así como sus características distintivas.
 - **Visualizaciones**: Se presentan gráficos que ilustran la relación entre las características de los hongos (como forma del sombrero, color, hábitat y olor) y su comestibilidad.
