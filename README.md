@@ -5,7 +5,7 @@ Este proyecto se centra en el análisis exploratorio de datos utilizando un data
 
 ## Uso en Google Colab
 Puedes ejecutar este análisis directamente en Google Colab haciendo clic en el siguiente enlace:
-[Abrir en Colab](https://colab.research.google.com/github/AlvarezLI/ProjectDS-Mushrooms/blob/main/Procedure.ipynb)
+[Abrir en Colab](https://github.com/AlvarezLI/Python_MushroomsDS/blob/main/Analisis.ipynb)
 
 ### Estructura del Notebook
 - **Análisis Exploratorio**: Se exploran diversas variables del dataset, incluyendo la distribución de hongos comestibles y venenosos, así como sus características distintivas.
