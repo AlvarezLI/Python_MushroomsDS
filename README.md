@@ -1,20 +1,20 @@
-# Análisis de Datos en Google Colab
+# Data Analysis in Google Colab
 
-## Descripción del Proyecto
-Este proyecto se centra en el análisis exploratorio de datos utilizando un dataset de hongos, con el objetivo de identificar diferentes tipos de hongos y predecir su comestibilidad basándonos en sus características físicas y químicas.
+## Project Description
+This project focuses on exploratory data analysis using a mushroom dataset, with the goal of identifying different types of mushrooms and predicting their edibility based on their physical and chemical characteristics.
 
-### Estructura del Notebook
-- **Análisis Exploratorio**: Se exploran diversas variables del dataset, incluyendo la distribución de hongos comestibles y venenosos, así como sus características distintivas.
-- **Visualizaciones**: Se presentan gráficos que ilustran la relación entre las características de los hongos (como forma del sombrero, color, hábitat y olor) y su comestibilidad.
-- **Conclusiones**: Se extraen insights clave sobre la identificación de hongos comestibles y venenosos y la relevancia de cada característica analizada.
+### Notebook Structure
+- **Exploratory Analysis**: Various variables in the dataset are explored, including the distribution of edible and poisonous mushrooms, as well as their distinctive characteristics.
+- **Visualizations**: Graphs are presented that illustrate the relationship between the characteristics of mushrooms (such as cap shape, color, habitat, and odor) and their edibility.
+- **Conclusions**: Key insights are drawn regarding the identification of edible and poisonous mushrooms, and the relevance of each characteristic analyzed.
 
-## Resultados Clave
-- La distribución de hongos comestibles y venenosos muestra una clara diferencia en las características del sombrero y el olor.
-- Las setas con sombreros de ciertos colores tienden a ser más comestibles, mientras que otros colores están más asociados a la peligrosidad.
-- Los hábitats tienen un impacto significativo en la diversidad de hongos comestibles y venenosos.
+## Key Results
+- The distribution of edible and poisonous mushrooms shows a clear difference in cap characteristics and odor.
+- Mushrooms with caps of certain colors tend to be more edible, while other colors are more associated with danger.
+- Habitats have a significant impact on the diversity of edible and poisonous mushrooms.
 
-## Licencia
-Este proyecto está bajo la Licencia CC0: Public Domain. El dataset utilizado está disponible en Kaggle y está sujeto a la Licencia de Kaggle, que permite su uso para análisis y aprendizaje, siempre y cuando se cumplan los términos de uso de la plataforma.
+## License
+This project is under the CC0 License: Public Domain. The dataset used is available on Kaggle and is subject to Kaggle's License, which allows its use for analysis and learning, as long as the platform's terms of use are followed.
 
-## Fuente del Dataset
-El dataset fue obtenido de Kaggle y está disponible en el siguiente enlace: [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification).
+## Dataset Source
+The dataset was obtained from Kaggle and is available at the following link: [Mushroom Classification Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification).
